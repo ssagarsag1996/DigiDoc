@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>F:\VisualStudioProjects\ASP.Net-Core\DigiDoc\bin\Release\net5.0\publish\</_PublishTargetUrl>
+    <History>True|2022-03-26T06:34:01.7155948Z;True|2022-03-26T11:58:15.2662505+05:30;True|2022-03-26T11:23:52.9585499+05:30;True|2022-03-20T15:49:37.6186031+05:30;</History>
+  </PropertyGroup>
+</Project>
